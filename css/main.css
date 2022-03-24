@@ -1,0 +1,41 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+}
+
+article {
+
+}
+article header {
+
+}
+
+article h1 {
+
+}
+
+article header p {
+
+}
+
+article p {
+
+}
+
+article ol{
+
+}
+
+blockquote {
+
+}
+
+.quote {
+
+}
